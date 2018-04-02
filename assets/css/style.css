@@ -244,7 +244,7 @@ max-width:600px;
 .circ-float {height:100px; width:100px; background:#159eee; border-radius:50%;margin:0 auto;z-index:100; margin-bottom:-50px; position:relative; text-align:center;}
 .circ-float i {color:#fff; padding-top:25px; font-size:50px;}
 
-.contact_img {width:100%; height:330px;}
+.contact_img {width:100%; height:330px; background-image:url('assets/images/map.jpg')}
 
 .col-lg-8 {width:100% !important}
 .col-lg-offset-2 { margin-left:0 !important;}
